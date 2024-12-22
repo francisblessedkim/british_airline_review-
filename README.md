@@ -72,4 +72,3 @@ This project analyzes customer reviews and implements a predictive model to unde
 
 **Francis Blessed Kim**  
 E: [kimblessedfrancis@gmail.com](mailto:kimblessedfrancis@gmail.com)  
-P: +256-781-179743
