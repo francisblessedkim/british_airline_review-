@@ -2,10 +2,15 @@
 This project analyzes customer reviews and implements a predictive model to understand and enhance customer behavior for British Airways. The objective is to extract actionable insights from customer reviews and predict key factors influencing flight booking decisions, providing recommendations to improve customer experience and maximize bookings.
 Key Findings
 Customer Review Analysis
+
 •	Overall Average Rating: 3.44/10 based on over 400 reviews.
+
 •	Positive Feedback: 
+
 o	Business class customers appreciated friendly cabin crew and fast-track security.
+
 o	London City Airport received the most positive reviews.
+
 •	Negative Feedback: 
 o	Common issues include lost luggage, delays, and cabin crew service quality.
 o	Frequent complaints about seat comfort and inflight entertainment.
